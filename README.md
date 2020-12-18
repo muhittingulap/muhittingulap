@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://dogukan.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhittingulap&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhittingulap&layout=compact" />
