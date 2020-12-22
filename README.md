@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhittingulap&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhittingulap&layout=compact&count_private=true" />
