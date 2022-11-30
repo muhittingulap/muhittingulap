@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhittin GÜLAP</h1>
+<h3 align="center">Software Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhittingulap&label=Profile%20views&color=0e75b6&style=flat" alt="muhittingulap" /> </p>
 
 <!--
 **muhittingulap/muhittingulap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhittingulap&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhittingulap&layout=compact&count_private=true" />
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=muhittingulap" alt="muhittingulap" /></p>
